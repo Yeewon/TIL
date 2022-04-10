@@ -1,8 +1,4 @@
 <br/>
-<p align="middle" >
-  <img width="200px;" src="./src/images/prgms-logo.png"/>
-</p>
-<h2 align="middle">프로그래머스 웹 데브코스 TIL</h2>
 <p align="middle">Today I Leared</p>
 <p align="middle">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
@@ -24,7 +20,33 @@
 
 <br/>
 
-8월 TIL
+
+## 2022년 4월 TIL
+| 날짜 | 제목 | 설명 | 링크 |
+| ---------- | ------------- | ----------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2022.04.11 | TIL |  React의 등장부터 특징까지 | [링크](https://velog.io/@yes3427/React) |
+
+
+## 2021년 9월 TIL
+| 날짜 | 제목 | 설명 | 링크 |
+| ---------- | ------------- | ----------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2021.09.04 | TIL Day4 | 하루의 조각들 | [링크](https://velog.io/@yes3427/TIL-DAY3-Daily-Plan) |
+| 2021.09.05 | 웹 | CSR과 SSR | [링크](https://velog.io/@yes3427/web-CSR-SSR) |
+| 2021.09.05 | 문제풀이 | [프로그래머스] 올바른 괄호 | [링크](https://velog.io/@yes3427/programmers-correct-bracket) |
+| 2021.09.06 | TIL | BEM | [링크](https://velog.io/@yes3427/TIL-BEM) |
+| 2021.09.06 | 문제풀이 | [프로그래머스] 프린터 | [링크](https://velog.io/@yes3427/programmers-printer) |
+| 2021.09.06 | JS 미니 프로젝트 | 1. Colors | [링크](https://velog.io/@yes3427/JS-mini-Project-Study-Colors) |
+| 2021.09.07 | TIL | 배포 6가지 방법 | [링크](https://velog.io/@yes3427/TIL-deloy) |
+| 2021.09.07 | 문제풀이 | [프로그래머스] 가장 먼 노드 | [링크](https://velog.io/@yes3427/programmers-The-Farthest-Node) |
+| 2021.09.08 | TIL | 오늘의 고민들 | [링크](https://velog.io/@yes3427/TIL-09-08) |
+| 2021.09.09 | javascript | 디바운스와 스로틀 차이점 | [링크](https://velog.io/@yes3427/Debounce-and-Throttle) |
+| 2021.09.14 | 문제풀이 | [프로그래머스] 순위 | [링크](https://velog.io/@yes3427/programmers-ranking) |
+| 2021.09.15 | 문제풀이 | [프로그래머스] 로또의 최고 순위와 최저 순위 | [링크](https://velog.io/@yes3427/programmers-lotto) |
+| 2021.09.16 | 문제풀이 | [프로그래머스] 숫자 문자열과 영단어 | [링크](https://velog.io/@yes3427/programmers-number-and-english-word) |
+| 2021.09.17 | SCSS | SCSS의 개념과 변수 | [링크](https://velog.io/@yes3427/SCSS-variable) |
+
+
+## 2021년 8월 TIL
 | 날짜 | 제목 | 설명 | 링크 |
 | ---------- | ------------- | ----------------------------------------------------- | ----------------------------------------------------------------------- |
 | 2021.08.03 | TIL Day1 | JavaScript의 변수 선언과 HTTPS | [링크](https://velog.io/@yes3427/binary-tree-and-traversal) |
@@ -48,20 +70,3 @@
 | 2021.08.29 | TIL Day4 | validation과 verification 차이 | [링크](https://velog.io/@yes3427/TIL-DAY4-validation-verification) |
 | 2021.08.29 | javascript | 함수형 프로그래밍이란? | [링크](https://velog.io/@yes3427/JavaScript-fuctional-programming) |
 
-9월 TIL
-| 날짜 | 제목 | 설명 | 링크 |
-| ---------- | ------------- | ----------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2021.09.04 | TIL Day4 | 하루의 조각들 | [링크](https://velog.io/@yes3427/TIL-DAY3-Daily-Plan) |
-| 2021.09.05 | 웹 | CSR과 SSR | [링크](https://velog.io/@yes3427/web-CSR-SSR) |
-| 2021.09.05 | 문제풀이 | [프로그래머스] 올바른 괄호 | [링크](https://velog.io/@yes3427/programmers-correct-bracket) |
-| 2021.09.06 | TIL | BEM | [링크](https://velog.io/@yes3427/TIL-BEM) |
-| 2021.09.06 | 문제풀이 | [프로그래머스] 프린터 | [링크](https://velog.io/@yes3427/programmers-printer) |
-| 2021.09.06 | JS 미니 프로젝트 | 1. Colors | [링크](https://velog.io/@yes3427/JS-mini-Project-Study-Colors) |
-| 2021.09.07 | TIL | 배포 6가지 방법 | [링크](https://velog.io/@yes3427/TIL-deloy) |
-| 2021.09.07 | 문제풀이 | [프로그래머스] 가장 먼 노드 | [링크](https://velog.io/@yes3427/programmers-The-Farthest-Node) |
-| 2021.09.08 | TIL | 오늘의 고민들 | [링크](https://velog.io/@yes3427/TIL-09-08) |
-| 2021.09.09 | javascript | 디바운스와 스로틀 차이점 | [링크](https://velog.io/@yes3427/Debounce-and-Throttle) |
-| 2021.09.14 | 문제풀이 | [프로그래머스] 순위 | [링크](https://velog.io/@yes3427/programmers-ranking) |
-| 2021.09.15 | 문제풀이 | [프로그래머스] 로또의 최고 순위와 최저 순위 | [링크](https://velog.io/@yes3427/programmers-lotto) |
-| 2021.09.16 | 문제풀이 | [프로그래머스] 숫자 문자열과 영단어 | [링크](https://velog.io/@yes3427/programmers-number-and-english-word) |
-| 2021.09.17 | SCSS | SCSS의 개념과 변수 | [링크](https://velog.io/@yes3427/SCSS-variable) |
